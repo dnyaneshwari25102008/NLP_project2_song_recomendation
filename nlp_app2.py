@@ -34,7 +34,7 @@ def get_index_from_name(name):
     return -1
 
 
-tab1,tab2,tab3,tab4=st.tabs(['🏠 Home','❤️ Recommendations','🔥 Trending','🎧 Genres'])
+tab1,tab2,tab3=st.tabs(['🏠 Home','❤️ Recommendations','🔥 Trending'])
 
 st.markdown(
     """
